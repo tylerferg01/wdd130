@@ -11,8 +11,19 @@ nav a {
     padding: 35px;
 }
 
+.logo {
+    width: 100px;
+    height: auto;
+}
+
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
+}
+
+
+#hero-img {
+    width: 100%;
+    height: auto;
 }
 
 .button-box {
